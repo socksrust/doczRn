@@ -1,0 +1,37 @@
+{
+  "config": {
+    "title": "React Native",
+    "description": "My awesome app using docz",
+    "themeConfig": {},
+    "ordering": "descending",
+    "version": "0.0.1",
+    "repository": null,
+    "plugins": [
+      {}
+    ]
+  },
+  "entries": {
+    "Button.mdx": {
+      "name": "Button",
+      "route": "/",
+      "id": "24f307fc6a7964b1db3b978e6242def0",
+      "filepath": "Button.mdx",
+      "link": null,
+      "slug": "button",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic usage"
+        }
+      ]
+    }
+  }
+}
